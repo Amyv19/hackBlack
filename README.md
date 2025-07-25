@@ -1,5 +1,3 @@
-Perfecto, aquí tienes un `README.md` completo que incluye:
-
 1. **Descripción del proyecto**
 2. **Pasos para abrir y correr el proyecto desde un `.zip`**
 3. **Instalación de dependencias y ejecución del backend y frontend**
